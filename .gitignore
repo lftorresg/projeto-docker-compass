@@ -1,0 +1,5 @@
+*.pem
+.env
+*.log
+*.tmp
+docker-compose.yml
